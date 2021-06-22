@@ -1,0 +1,22 @@
+algoritmo da pagina de pesquisa
+
+nome
+departamento
+conte-nos sobre voce
+perguntar se faz exercicios em casa
+Como voce gosta de ler:
+escolher(livro, site, kinlde, apps do telefone , revistas)
+Quais generos de filme gosta de assistir
+(romance, triller, terror, comedia, ficção cientifica)
+
+1. centralizar
+2. Seu nome: Caixa com : type(tipo texto), name(tipo texto), size(tamanho), maxlenght(tamanho), value=""(vazio)
+3.Seu Departamento(type(tipo texto), name(tipo texto), size(tamanho), maxlenght(tamanho), value=""(vazio))
+4.Voce se exercita em casa (Botao radio para seleção)
+5. como voce gosta de ler os seus temas favoritos( Checkbox botao de escolhas)
+-livros
+-Internet
+-Apps
+-Revistas
+6. Qual genero de filme você gosta
+-Aqui será dropbox.
